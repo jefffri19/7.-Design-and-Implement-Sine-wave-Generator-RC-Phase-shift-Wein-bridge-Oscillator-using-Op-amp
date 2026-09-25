@@ -63,15 +63,14 @@ Rf = 15K *2=30KΩ
 3.	Measure the output wave frequency and amplitude.
 
 
-  **CIRCUIT DIAGRAM**
+  **CIRCUIT DIAGRAM AND TABULATION:**
+  <img width="996" height="1600" alt="image" src="https://github.com/user-attachments/assets/01b5e42d-f2b9-4f82-829a-319a45dddb7d" />
 
+ <img width="1037" height="1600" alt="image" src="https://github.com/user-attachments/assets/c1bcf7fb-c11a-49bc-901e-1121bcb88109" />
 
-  **MODEL GRAPH:**
+<img width="1468" height="650" alt="image" src="https://github.com/user-attachments/assets/38cdc2ef-b29d-4c4e-ab8d-d1f8e98693ef" />
 
-
-  **TABULATION:**
- 
-
+<img width="1214" height="1542" alt="image" src="https://github.com/user-attachments/assets/6d8bc1ba-d060-4756-84b5-c49e4b2072d1" />
 
 
 
